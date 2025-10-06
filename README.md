@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ana Paula Bernardes 👋
 
-- 👩‍💻 Hoje sou estudante do último ano de Ciência da Computação 
+- 👩‍💻 Bacharel em Ciência da Computação / Dev Full-Stack 
 - 🧠 Estudando: Desenvolvimento Front-end
 
 <div align="center">
