@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Paula Bernardes 👋
 
 - 👩‍💻 Bacharel em Ciência da Computação / Dev Full-Stack 
-- 🧠 Estudando: Desenvolvimento Front-end
+- 🧠 Estudando: Desenvolvimento Front-end e Mobile
 
 <div align="center">
   <a href="https://github.com/anapbds">
